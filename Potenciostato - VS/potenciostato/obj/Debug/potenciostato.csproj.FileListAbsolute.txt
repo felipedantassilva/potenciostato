@@ -1,0 +1,10 @@
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\bin\Debug\potenciostato.exe.config
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\bin\Debug\potenciostato.exe
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\bin\Debug\potenciostato.pdb
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.Form1.resources
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.exe
+C:\Users\Felipe\Desktop\Potenciostato\Potenciostato - VS\potenciostato\obj\Debug\potenciostato.pdb

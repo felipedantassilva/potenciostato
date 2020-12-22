@@ -1,0 +1,12 @@
+Equipamentos:
+
+- Gerador de funções arbitrárias 10Mhz;
+- Osciloscópio 4ch 70Mhz;
+- Fonte programável simétrica de bancada 30V 5A;
+- Multimetro de bancada;
+- Computador c/ win7 ou superior;
+- Arduino (para testes).
+
+Obs: Todos os instrumentos com suas devidas ponteiras.
+
+BOM: Anexo em PDF.
